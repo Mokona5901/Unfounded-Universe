@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"First",
+			"guy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Second",
+			"guy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Third",
+			"guy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"guy",
+		"bf",
+		"gf"
+	],
+	"storyName": "My Week",
+	"weekName": "My Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

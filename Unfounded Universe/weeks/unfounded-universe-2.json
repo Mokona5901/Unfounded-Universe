@@ -1,0 +1,48 @@
+{
+  "songs": [
+    [
+      "First",
+      "guy",
+      [
+        146,
+        113,
+        253
+      ]
+    ],
+    [
+      "Second",
+      "guy",
+      [
+        146,
+        113,
+        253
+      ]
+    ],
+    [
+      "Third",
+      "guy",
+      [
+        146,
+        113,
+        253
+      ]
+    ]
+  ],
+  "hideFreeplay": false,
+  "weekBackground": "stage",
+  "weekCharacters": [
+    "guy",
+    "bf",
+    "gf"
+  ],
+  "storyName": "Second week of Unfounded Universe",
+  "weekName": "Second week of Unfounded Universe",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "hideStoryMode": false,
+  "weekBefore": "unfounded-universe",
+  "startUnlocked": true
+}
