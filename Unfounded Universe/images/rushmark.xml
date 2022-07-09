@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rushmark.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="countdown20000" x="0" y="0" width="446" height="71" frameX="-750" frameY="0" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20001" x="446" y="0" width="448" height="71" frameX="-733" frameY="0" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20002" x="0" y="71" width="451" height="71" frameX="-684" frameY="0" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20003" x="451" y="71" width="457" height="70" frameX="-605" frameY="-1" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20004" x="0" y="142" width="466" height="71" frameX="-499" frameY="-1" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20005" x="466" y="142" width="475" height="71" frameX="-373" frameY="-1" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20006" x="0" y="213" width="485" height="70" frameX="-233" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20007" x="485" y="213" width="497" height="71" frameX="-85" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20008" x="0" y="284" width="539" height="71" frameX="-36" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20009" x="0" y="355" width="563" height="71" frameX="-11" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20010" x="0" y="426" width="572" height="71" frameX="-1" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20011" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20012" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20013" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20014" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20015" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20016" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20017" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20018" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20019" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20020" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20021" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20022" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20023" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20024" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20025" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20026" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20027" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20028" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20029" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20030" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20031" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20032" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20033" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20034" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20035" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20036" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20037" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20038" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20039" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20040" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20041" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20042" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20043" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20044" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20045" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20046" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20047" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20048" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20049" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20050" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20051" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20052" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+	<SubTexture name="countdown20053" x="0" y="497" width="573" height="71" frameX="0" frameY="-2" frameWidth="1196" frameHeight="73"/>
+</TextureAtlas>

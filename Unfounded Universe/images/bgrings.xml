@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgrings.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rings10000" x="0" y="0" width="379" height="282" frameX="0" frameY="-1" frameWidth="379" frameHeight="284"/>
+	<SubTexture name="rings10001" x="0" y="0" width="379" height="282" frameX="0" frameY="-1" frameWidth="379" frameHeight="284"/>
+	<SubTexture name="rings10002" x="379" y="0" width="371" height="283" frameX="-4" frameY="-1" frameWidth="379" frameHeight="284"/>
+	<SubTexture name="rings10003" x="379" y="0" width="371" height="283" frameX="-4" frameY="-1" frameWidth="379" frameHeight="284"/>
+	<SubTexture name="rings10004" x="0" y="283" width="365" height="284" frameX="-7" frameY="0" frameWidth="379" frameHeight="284"/>
+	<SubTexture name="rings10005" x="0" y="283" width="365" height="284" frameX="-7" frameY="0" frameWidth="379" frameHeight="284"/>
+	<SubTexture name="rings10006" x="365" y="283" width="334" height="284" frameX="-22" frameY="0" frameWidth="379" frameHeight="284"/>
+	<SubTexture name="rings10007" x="365" y="283" width="334" height="284" frameX="-22" frameY="0" frameWidth="379" frameHeight="284"/>
+	<SubTexture name="rings10008" x="0" y="567" width="365" height="284" frameX="-7" frameY="0" frameWidth="379" frameHeight="284"/>
+	<SubTexture name="rings10009" x="0" y="567" width="365" height="284" frameX="-7" frameY="0" frameWidth="379" frameHeight="284"/>
+	<SubTexture name="rings10010" x="365" y="567" width="371" height="283" frameX="-4" frameY="-1" frameWidth="379" frameHeight="284"/>
+	<SubTexture name="rings10011" x="365" y="567" width="371" height="283" frameX="-4" frameY="-1" frameWidth="379" frameHeight="284"/>
+</TextureAtlas>
